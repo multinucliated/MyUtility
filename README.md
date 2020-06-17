@@ -1,2 +1,2 @@
-# PythonLogger
-Small function which will create a logs in a separate folder.
+# MyUtility
+This repository contains the small commands and functions which i use for developing programs and other stuff 
