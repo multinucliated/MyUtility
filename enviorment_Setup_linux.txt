@@ -1,0 +1,49 @@
+
+sudo apt-get update
+
+sudo apt install python3-pip
+
+sudo apt install python3-venv
+
+python3 -m venv venv
+
+source venv/bin/activate
+\env\Scripts\activate.bat
+
+
+pip install --upgrade pip
+
+pip install -r requirements.txt
+
+# open-cv and tesseract ubutnu 18 version 4
+sudo apt-get install libsm6 libxrender1 libfontconfig1
+sudo apt install tesseract-ocr
+sudo apt install libtesseract-dev
+
+#create folders
+
+# make service down and up
+nohup python3 app.py
+ps ax | grep app.py
+kill -9 #### passs the process id 
+
+# logs
+tail -f nohup.out 
+
+
+
+## sql server 
+alabs
+alabs@123
+
+
+
+
+
+
+
+
+
+
+
+
