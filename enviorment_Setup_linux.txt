@@ -32,6 +32,17 @@ tail -f nohup.out
 
 
 
+
+## Download Files
+scp root@rankmyresume.ml:resume_parser/uloads.zip /home/anshul/Downloads/
+
+
+
+
+
+
+
+
 ## sql server 
 alabs
 alabs@123
